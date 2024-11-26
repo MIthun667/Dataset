@@ -1,1 +1,3 @@
 # Dataset
+
+In the Bangla language, sentiment analysis is becoming more and more significant. Aspect-based sentiment analysis (ABSA) predicts the sentiment polarity on an aspect level. The data were collected from numerous individuals with a minimum of two aspects. Every comment is a complex or compound sentence. The datasets are organized in a folder named "BANGLA_ABSA dataset" which has four Excel files, one for each of the datasets: Car_ABSA, Mobile_phone_ABSA, Movie_ABSA, and Restaurant_ABSA. Each Excel file contains three columns namely Id, Comment, and {Aspect category, Sentiment Polarity}. Car_ABSA and Restaurant_ABSA datasets have 1149, and 801 rows of data respectively.
